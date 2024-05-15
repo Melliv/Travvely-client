@@ -1,4 +1,4 @@
-Server: https://github.com/Melliv/Travvle-server
+Server: https://github.com/Melliv/Travvely-server
 
 ## Prerequrements
 
